@@ -1,6 +1,6 @@
 require 'formula'
 
-class Imagemagick6.8 < Formula
+class Imagemagick68 < Formula
   homepage 'http://www.imagemagick.org'
 
   # upstream's stable tarballs tend to disappear, so we provide our own mirror
